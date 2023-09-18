@@ -7,7 +7,7 @@ export default function Home() {
         <title>Service Agency</title>
       </Head>
       <div className="container mx-auto px-5">
-        <section className="py-8">
+        <section className="md:py-16 py-8">
           <div className="mx-auto flex md:flex-row flex-col items-center md:text-start text-center">
             <div className="w-full md:w-7/12 md:mb-0 mb-4">
               <h2 className="text-3xl	md:text-6xl font-semibold text-[#293241]">
@@ -23,11 +23,11 @@ export default function Home() {
               </button>
             </div>
             <div className="w-64 md:w-5/12">
-              <img src="Image.png" className="md:ml-auto" alt="" />
+              <img src="Cover Image.png" className="md:ml-auto" alt="" />
             </div>
           </div>
         </section>
-        <section className="py-8">
+        <section className="py-12">
           <div className="divide-x-2">
             <span className="text-lg font-semibold pr-4">Featured In</span>
             <span className="text-[#C7C6D5] text-lg font-semibold pl-4">
@@ -82,7 +82,7 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section className="md:py-16">
+        <section className="md:py-16 py-8">
           <div className="flex md:flex-row flex-wrap flex-col items-center">
             <div className="md:w-1/4 w-full mb-6">
               <div className="bg-[#F2FFF8] box-border rounded-xl px-7 py-14 w-[280px] h-[230px]">
@@ -147,10 +147,10 @@ export default function Home() {
             </div>
           </div>
         </section>
-        <section className="md:py-6">
+        <section className="md:py-12 py-4">
           <div className="mx-auto flex md:flex-row flex-col items-center md:text-start text-center">
             <div className="w-64 md:w-1/2">
-              <img src="Main Image.png" alt="" />
+              <img src="Section Image.png" alt="" />
             </div>
             <div className="w-full md:w-1/2">
               <h2 className="text-3xl md:text-4xl font-semibold text-[#293241] mt-4 md:mt-0">
@@ -212,7 +212,7 @@ export default function Home() {
           </div>
         </section>
       </div>
-      <section className="bg-[#F2FFF8] py-8">
+      <section className="bg-[#F2FFF8] py-12 md:my-8">
         <div className="container mx-auto px-5">
           <h2 className="pt-4 text-3xl text-[#293241] font-semibold">
             Testimonials
@@ -257,7 +257,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="md:py-16 py-8 container mx-auto px-5">
+      <section className="md:py-16 py-12 container mx-auto px-5">
         <div className="mx-auto flex md:flex-row flex-col md:text-start text-center">
           <div className="w-full md:w-1/2 md:mb-0 mb-4">
             <h2 className="text-3xl	md:text-6xl font-semibold text-[#293241]">
@@ -281,7 +281,7 @@ export default function Home() {
             <p className="md:pt-16 pt-4 text-lg">© 2023 Octet Design Studio.</p>
           </div>
           <div className="w-64 md:w-1/2 pt-4">
-            <img src="Pattern-fill.png" className="md:ml-auto" alt="" />
+            <img src="Footer Image.png" className="md:ml-auto" alt="" />
           </div>
         </div>
       </section>
