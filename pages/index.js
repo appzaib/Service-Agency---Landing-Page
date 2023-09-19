@@ -281,7 +281,7 @@ export default function Home() {
             <p className="md:pt-16 pt-4 text-lg">© 2023 Octet Design Studio.</p>
           </div>
           <div className="w-64 md:w-1/2 pt-4 mx-auto">
-            <img src="Footer Image.png" className="md:ml-auto" alt="" />
+            <img src="footer Image.png" className="md:ml-auto" alt="" />
           </div>
         </div>
       </section>
