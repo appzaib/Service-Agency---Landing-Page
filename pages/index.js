@@ -101,7 +101,7 @@ export default function Home() {
               </div>
             </div>
             <div className="md:w-2/4 w-full mb-6">
-              <div className="w-[90%] pt-2">
+              <div className="md:w-[85%] pt-2">
                 <h3 className="font-bold text-3xl md:text-4xl text-[#293241]">
                   Our Digital
                   <br /> Marketing Expertise
