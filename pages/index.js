@@ -86,7 +86,7 @@ export default function Home() {
           <div className="flex md:flex-row flex-wrap flex-col items-center">
             <div className="md:w-1/4 w-full mb-6 ">
               <div className="bg-[#F2FFF8] mx-auto md:mx-0 box-border rounded-xl px-7 py-14 w-[280px] h-[230px]">
-                <img src="icon.png" alt="" />
+                <img src="Icon.png" alt="" />
                 <h3 className="pt-4 font-semibold text-xl text-[#293241]">
                   Search <br /> Engine Optimization
                 </h3>
@@ -94,7 +94,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/4 w-full mb-6">
               <div className="bg-[#F2FFF8] mx-auto md:mx-0 box-border rounded-xl px-7 py-14 w-[280px] h-[230px]">
-                <img src="icon (1).png" alt="" />
+                <img src="Icon-(1).png" alt="" />
                 <h3 className="pt-4 font-semibold text-xl text-[#293241]">
                   Website design & <br /> Development
                 </h3>
@@ -115,7 +115,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/4 w-full mb-6">
               <div className="bg-[#F2FFF8] mx-auto md:mx-0 box-border rounded-xl  px-7 py-14 w-[280px] h-[230px]">
-                <img src="icon (5).png" alt="" />
+                <img src="Icon-(5).png" alt="" />
                 <h3 className="pt-4 font-semibold text-xl text-[#293241]">
                   Video editing & <br /> Production
                 </h3>
@@ -123,7 +123,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/4 w-full mb-6">
               <div className="bg-[#F2FFF8] mx-auto md:mx-0 box-border rounded-xl  px-7 py-14 w-[280px] h-[230px]">
-                <img src="icon (2).png" alt="" />
+                <img src="Icon-(2).png" alt="" />
                 <h3 className="pt-4 font-semibold text-xl text-[#293241]">
                   Content <br /> Writing
                 </h3>
@@ -131,7 +131,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/4 w-full mb-6">
               <div className="bg-[#F2FFF8] mx-auto md:mx-0 box-border rounded-xl  px-7 py-14 w-[280px] h-[230px]">
-                <img src="icon (3).png" alt="" />
+                <img src="Icon-(3).png" alt="" />
                 <h3 className="pt-4 font-semibold text-xl text-[#293241]">
                   Social media <br /> Marketing
                 </h3>
@@ -139,7 +139,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/4 w-full mb-6">
               <div className="bg-[#F2FFF8] mx-auto md:mx-0 box-border rounded-xl  px-7 py-14 w-[280px] h-[230px]">
-                <img src="icon (4).png" alt="" />
+                <img src="Icon-(4).png" alt="" />
                 <h3 className="pt-4 font-semibold text-xl text-[#293241]">
                   Pay per <br /> click (PPC)
                 </h3>
